@@ -47,9 +47,10 @@ pip install -r requirements.txt
 Windows
 ```
 python manage.py makemigrations
+```
+```
 python manage.py migrate
 ```
-
 Linux/macOS
 ```
 python3 manage.py makemigrations
