@@ -15,6 +15,8 @@ Cоздать и активировать виртуальное окружен�
 Windows
 ```
 python -m venv venv
+```
+```
 source venv/Scripts/activate
 ```
 Linux/macOS
